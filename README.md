@@ -12,3 +12,5 @@ Custom, migration and reverse-engineered Odoo modules, versions 17 to 20, Commun
 - LinkedIn: [ahmad-emad-eldin-hassan](https://www.linkedin.com/in/ahmad-emad-eldin-hassan-b15a5026b/)
 
 Project repositories are private; access is shared on request.
+
+![Profile views](https://komarev.com/ghpvc/?username=ahmed-emad-triple&label=Profile%20views&color=0e75b6&style=flat)
