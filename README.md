@@ -1,16 +1,14 @@
-## Hi there 👋
+# Ahmad Emad Eldin Hassan
 
-<!--
-**ahmed-emad-triple/ahmed-emad-triple** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Odoo Senior Solutions Architect · Senior AI-Augmented Odoo Developer · Odoo Certified v19**
 
-Here are some ideas to get you started:
+Head of Odoo Product & Solutions at **ETripleSoft** (Odoo Gold Partner), Cairo, Egypt.
+Custom, migration and reverse-engineered Odoo modules, versions 17 to 20, Community and Enterprise, for clients in Egypt, Saudi Arabia and the UAE.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Contact
+
+- E-mail: ahmad.emad.odoo@gmail.com
+- WhatsApp: [+20 111 448 6007](https://wa.me/201114486007)
+- LinkedIn: [ahmad-emad-eldin-hassan](https://www.linkedin.com/in/ahmad-emad-eldin-hassan-b15a5026b/)
+
+Project repositories are private; access is shared on request.
